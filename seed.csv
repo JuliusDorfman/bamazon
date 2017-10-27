@@ -1,0 +1,11 @@
+item_id,product_name,department_name,price,stock_quantity
+1,Fish Dumpling,Food,5,50
+2,Pork Dumpling,Food,5,75
+3,Shrimp Dumpling,Food,3,300
+4,Soup Dumpling,Food,7,30
+5,Bird Dumpling,Food,30,10
+6,Tofu Dumpling,Food,1,1000
+7,Grass Dumpling,Food,1,20000
+8,Jameson Dumpling,Food,16,100
+9,Sofa King Dumpling,Food,5,100
+10,Normal-Regular-Good-Old-Fashioned-Dumpling,Food,3,10000
