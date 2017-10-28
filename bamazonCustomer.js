@@ -62,6 +62,8 @@ var startUser = function() {
                 console.log("You have selected: " + res[answers.item_id].product_name);
             } else {
                 console.log("Please select an item 1 through 10");
+                setTimeout(function(){ db.display();}
+                
             }
             console.log("Is this correct?");
             console.log('---------------');
